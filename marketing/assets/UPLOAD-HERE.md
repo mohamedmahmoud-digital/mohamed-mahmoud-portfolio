@@ -1,0 +1,1 @@
+Upload the second real-estate portfolio images to this folder. Keep the original portfolio assets in /assets unchanged.
